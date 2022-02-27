@@ -4,15 +4,15 @@ WiLBiT is a free .NET UI Framework created &amp; developed with C# to replace al
 # WiLBiT Source code
 Yes, WiLBiT is open-source, but unfortunately will not receiving source updates on GitHub unless updates for the source code was needed.
 
-### WiLBiT Framework Guidelines
+# WiLBiT Framework Guidelines
 
-## USAGE OF THE FRAMEWORK
+### USAGE OF THE FRAMEWORK
 
 Of course, you're allowed to use W.B. Framework as is, but using it maliciously or for un-ethical use is prohibited, although, we do not condone your actions and we aren't responsible for what you do with W.B. .
 
 WiLBiT is open source, but you're not allowed to modify it for unethical use or inject it with trojan/malware or any virus.
 
-## CHANGES OF GUIDELINES
+### CHANGES OF GUIDELINES
 
 WE HEREBY STATE THAT WE HAVE FULL PERMISSION TO CHANGE OR MODIFY / ADD / REMOVE FROM THE GUIDELINES. YOU ARE RESPONSIBLE FOR READING AND FOLLOWING OUR GUIDELINES, IF YOU DO NOT, YOU FACE THE CONSEQUENCES YOU CAUSED. NO CHANCES.
 
