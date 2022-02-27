@@ -4,7 +4,7 @@ WiLBiT is a free .NET UI Framework created &amp; developed with C# to replace al
 # WiLBiT Source code
 Yes, WiLBiT is open-source, but unfortunately will not receiving source updates on GitHub unless updates for the source code was needed.
 
-# WiLBiT Framework Guidelines
+### WiLBiT Framework Guidelines
 
 ## USAGE OF THE FRAMEWORK
 
